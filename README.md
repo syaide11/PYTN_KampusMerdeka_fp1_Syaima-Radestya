@@ -9,4 +9,4 @@ Pada Project 1 kali ini di kelompok 4 yaitu dengan nama :
 - SAVITRI DYAH AYU PITALOKA
 - SYAIMA RADESTYA
 
-Melakukan prediksi harga taksi berdasarkan dataset yang diberikan yaitu Dataset Uber vs Lyft. Dengan memasukkan nilai Asal, Tujuan, Jenis Taksi, Merek, Jarak, dan Surge Multiplier. Program akan memberikan hasil prediksi harga.
+Melakukan prediksi harga taksi berdasarkan dataset yang diberikan yaitu Dataset Uber vs Lyft yang berasal dari web kaggle. Dengan memasukkan nilai Asal, Tujuan, Jenis Taksi, Merek, Jarak, dan Surge Multiplier, program akan memberikan hasil prediksi harga.
